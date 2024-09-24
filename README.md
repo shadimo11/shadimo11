@@ -1,4 +1,5 @@
 ## Hi there 👋
+Looking forward to improving my skills!
 
 <!--
 **shadimo11/shadimo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
