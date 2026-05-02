@@ -107,7 +107,7 @@
 
 ###
 
-<h3 align="left">🔧 Tools & Cloud</h3>
+<h3 align="left">🔧 Tools</h3>
 
 ###
 
